@@ -8,6 +8,6 @@
 <img width="320" height="452" alt="image" src="https://github.com/user-attachments/assets/8e6d2f51-ffad-4cae-8883-31b93f152982" />
 </div>
 <div align="center"><h5>
-Esse pequeno projeto foi um dos primeiros que eu fiz, no começo foi bem complicado...kkk, mas nada coo a teimosia pra me ajudar...  
+Esse pequeno projeto foi um dos primeiros que eu fiz, no começo foi bem complicado...kkk, mas nada como a teimosia pra me ajudar...  
 </h5> 
 </div>
