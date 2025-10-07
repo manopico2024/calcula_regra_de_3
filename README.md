@@ -26,15 +26,16 @@ Studio Code como Editor, deixarei descrito as extensões necessárias também ab
 é bem simples, Digite os números nos campos em branco, e clicke no Botão CALCULAR e terá o resultado final</p>
 </div>
 
-<div align="left">
-<li> [Python](https://www.python.org/downloads/) instalar</br></li>
-<li> [QT Designer](https://build-system.fman.io/qt-designer-download/) instalar</p></li>
-</div>
-
 <div align="center">
   <h1><b>### 📥 Pré-requisitos</br></h1>
 </div>
+<div align="left"></p>
 
+<h1>DEVE Instalar:</p></h1>
+
+[![made-with-python](https://img.shields.io/badge/Download%20with-Python-1f425f.svg)](https://www.python.org/)
+[![made-with-python](https://img.shields.io/badge/Download%20with-QT%20Designer-1f425f.svg)](https://build-system.fman.io/)
+</div>
 <div align="left">
   <h1>### 🔧 Extensões do VS Code (Necessárias)</h1>
 </div>
