@@ -26,7 +26,7 @@ Studio Code como Editor, deixarei descrito as extensões necessárias também ab
 </div>
 
 <div align="left">
-- [Python](https://www.python.org/downloads/) instalar</br>
+<li> [Python](https://www.python.org/downloads/) instalar</br></li>
 - [QT Designer](https://build-system.fman.io/qt-designer-download/) instalar</p>
 </div>
 </div>
