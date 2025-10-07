@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 <h1>Projeto de treino: Calculadora para Regras de 3</h1>
 </div>
 <div align="left">
