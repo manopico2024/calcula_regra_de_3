@@ -16,12 +16,12 @@
 
 Foi utilizado somente Python como linguagem, e convertido da Framework do QT Designer, o Código em C++,
 Utilizado também, a fórmula matemática de diluentes pelo método de regras de 3... Se você utiliza o Visual 
-Studio Code como Editor, deixarei descrito as extensões necessárias também abaixo:
+Studio Code como Editor, deixarei descrito as extensões necessárias também abaixo:</p>
 
 <div align="left">
-### 📥 Pré-requisitos
-- [Python](https://www.python.org/downloads/) instalado
-
+### 📥 Pré-requisitos</br>
+- [Python](https://www.python.org/downloads/) instalar</br>
+- [QT Designer](https://build-system.fman.io/qt-designer-download/) instalar</p>
 ### 🔧 Extensões do VS Code (Necessárias)
 Na aba de extensões do Visual Studio Code, instale:
 
