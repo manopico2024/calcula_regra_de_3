@@ -37,7 +37,7 @@ Na aba de extensões do Visual Studio Code, instale:
 <li>Python - Suporte oficial para Python</li></br>
 <li>QT Tools - Ferramentas para desenvolvimento QT</li></br>
 <li>Qt for Python - Extensão específica para PyQt/PySide</li></p>
-</h3>
+</h4>
 </div>
 <div align="left">
 <h2>### 📚 Bibliotecas Python Necessárias!</2h>
