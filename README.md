@@ -15,7 +15,7 @@
  - Instalar o executavél do Python
  </h3>  
  <h4>
-***E as Seguintes lib do Python:
+***E as Seguintes libs do Python:
  </h4></br>
  <h5>
 - pip install pyqt5</br>   
