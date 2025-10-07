@@ -34,9 +34,9 @@ Studio Code como Editor, deixarei descrito as extensões necessárias também ab
 <div align="left"><h2>### 🔧 Extensões do VS Code (Necessárias)</h2>
 Na aba de extensões do Visual Studio Code, instale:
 <h4>
-- **Python** - Suporte oficial para Python</br>
-- **QT Tools** - Ferramentas para desenvolvimento QT</br>
-- **Qt for Python** - Extensão específica para PyQt/PySide</p>
+ <li>Python - Suporte oficial para Python</li></br>
+ <li>QT Tools - Ferramentas para desenvolvimento QT</li></br>
+ <li>Qt for Python - Extensão específica para PyQt/PySide</li></p>
 </h3>
 </div>
 <div align="left">
