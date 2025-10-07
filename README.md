@@ -7,7 +7,8 @@
 </div>
 
 <div align="left"><br>
-<img width="320" height="400" alt="image" />
+
+![Imagem](https://github.com/user-attachments/assets/2f8ef690-2c40-458b-9711-2099dc521548)
 </div>
 
 <div align="center">
