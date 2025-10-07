@@ -1,5 +1,5 @@
 <div align="center"><br><br>
-<h1>🧮Projeto de treino: Calculadora para Regras de 3</h1>
+<h1>🧮Projeto de treino: Calculadora para Regras de 3!</h1>
 </div>
 
 <div align="left"><br>
