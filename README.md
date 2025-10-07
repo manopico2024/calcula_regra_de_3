@@ -57,10 +57,6 @@ Studio Code como Editor, deixarei descrito as extensões necessárias também ab
 <p></div>
 
 <div align="left">
-<h2>Se você não estiver usando um ambiente virtual, talvez seja necessário usar pip3 em vez de pip e,</br> potencialmente, sudo se estiver instalando em todo o sistema:</h2></p><br><br>
-</div>
-
-<div align="left">
 <h4><li>pip install pyqt5</li></h4>
 <h4><li>pip install pyrcc5</li></h4>
 <h4><li>pip install PySide5</p></li></h4><br>
