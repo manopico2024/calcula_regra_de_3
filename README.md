@@ -68,7 +68,7 @@ Studio Code como Editor, deixarei descrito as extensões necessárias também ab
 
 <div align="left">
 <h2>Para instalar o PyQt5 no Linux usando pip, siga estas etapas:<br>
-<li>Certifique-se pipde que esteja instalado e atualizado:</li></h2><br><br>
+<li>Certifique-se pip de que esteja instalado e atualizado:</li></h2><br><br>
 </div>
 
 <div>
