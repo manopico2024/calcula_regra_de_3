@@ -6,6 +6,13 @@
 <h2>Olá! Esse é um projeto de treino para melhorar as habilidades de aplicações com Python!</h2>
 </div>
 
+<div align="center">
+<h1><b><br>Modo de Uso:</b></h1>
+</div>
+
+<div align="left">
+<h2><p>É bem simples, Digite os números nos campos em branco, e clicke no Botão CALCULAR e terá o resultado final</p>
+</h2></div>
 <div align="left"><br>
 
 ![Imagem](https://github.com/user-attachments/assets/2f8ef690-2c40-458b-9711-2099dc521548)
@@ -18,14 +25,6 @@
 Foi utilizado Python como linguagem e interpretador, e convertido da Framework do QT Designer o Código em C++
 convertido para o Python, Utilizado também a fórmula matemática de diluentes pelo método de regras de 3... 
 Se você utiliza o Visual Studio Code como Editor, deixarei descrito as extensões necessárias e as bibliotecas também abaixo:</p>
-</h2></div>
-
-<div align="center">
-<h1><b><br>Modo de Uso:</b></h1>
-</div>
-
-<div align="left">
-<h2><p>É bem simples, Digite os números nos campos em branco, e clicke no Botão CALCULAR e terá o resultado final</p>
 </h2></div>
 
 <div align="center">
