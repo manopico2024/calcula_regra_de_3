@@ -24,7 +24,7 @@
 <div align="left"><h2><p>
 Foi utilizado Python como linguagem e interpretador, e convertido da Framework do QT Designer o Código em C++
 convertido para o Python, Utilizado também a fórmula matemática de diluentes pelo método de regras de 3... 
-Se você utiliza o Visual Studio Code como Editor, deixarei descrito as extensões necessárias e as bibliotecas também abaixo.:</p>
+Se você utiliza o Visual Studio Code como Editor, deixarei descrito as extensões necessárias e as bibliotecas também abaixo:</p>
 </h2></div>
 
 <div align="center">
