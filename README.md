@@ -31,7 +31,7 @@ Studio Code como Editor, deixarei descrito as extensões necessárias também ab
 </div>
 <div align="left"></p>
 
-<h1>DEVE Instalar:</p></h1>
+<h1>INSTALAR</p></h1>
 
 [![made-with-python](https://img.shields.io/badge/Download%20with-Python-1f425f.svg)](https://www.python.org/)
 [![made-with-python](https://img.shields.io/badge/Download%20with-QT%20Designer-1f425f.svg)](https://build-system.fman.io/)
