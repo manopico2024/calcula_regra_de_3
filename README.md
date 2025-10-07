@@ -32,12 +32,12 @@ Studio Code como Editor, deixarei descrito as extensões necessárias também ab
 </div>
 <div algin="center"><h1>### 📥 Pré-requisitos</br></h1></div>
 <div align="left"><h2>### 🔧 Extensões do VS Code (Necessárias)</h2>
-Na aba de extensões do Visual Studio Code, instale:
-<h4>
-<li>Python - Suporte oficial para Python</li></br>
-<li>QT Tools - Ferramentas para desenvolvimento QT</li></br>
-<li>Qt for Python - Extensão específica para PyQt/PySide</li></p>
-</h4>
+<h3>Na aba de extensões do Visual Studio Code, instale:</h3>
+
+<h5><li>Python - Suporte oficial para Python</li></br></h5>
+<h5><li>QT Tools - Ferramentas para desenvolvimento QT</li></br></h5>
+<h5><li>Qt for Python - Extensão específica para PyQt/PySide</li></p></h5>
+
 </div>
 <div align="left">
 <h2>### 📚 Bibliotecas Python Necessárias!</2h>
