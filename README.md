@@ -19,24 +19,24 @@ Utilizado também, a fórmula matemática de diluentes pelo método de regras de
 Studio Code como Editor, deixarei descrito as extensões necessárias também abaixo:</p>
 </div>
 <div align="center">
-  <h1>## Modo de Uso:</h1>
+<h1>## Modo de Uso:</h1>
 </div>
 <div align="left">
 é bem simples, Digite os números nos campos em branco, e clicke no Botão CALCULAR e terá o resultado final</p>
 </div>
 
 <div align="left">
-  - [Python](https://www.python.org/downloads/) instalar</br>
-  - [QT Designer](https://build-system.fman.io/qt-designer-download/) instalar</p>
-  </div>
+- [Python](https://www.python.org/downloads/) instalar</br>
+- [QT Designer](https://build-system.fman.io/qt-designer-download/) instalar</p>
+</div>
 </div>
 <div algin="center"><h1>### 📥 Pré-requisitos</br></h1></div>
 <div align="left"><h2>### 🔧 Extensões do VS Code (Necessárias)</h2>
 Na aba de extensões do Visual Studio Code, instale:
 <h4>
- <li>Python - Suporte oficial para Python</li></br>
- <li>QT Tools - Ferramentas para desenvolvimento QT</li></br>
- <li>Qt for Python - Extensão específica para PyQt/PySide</li></p>
+<li>Python - Suporte oficial para Python</li></br>
+<li>QT Tools - Ferramentas para desenvolvimento QT</li></br>
+<li>Qt for Python - Extensão específica para PyQt/PySide</li></p>
 </h3>
 </div>
 <div align="left">
