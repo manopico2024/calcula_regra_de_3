@@ -66,9 +66,12 @@ Studio Code como Editor, deixarei descrito as extensões necessárias também ab
 <h4><li>pip install PySide5</p></li></h4><br>
 </div>
 
+<div align="center">
+<br><h1><b>📚 Bibliotecas Python no LINUX!</b></h1>
+<p></div>
 <div align="left">
 <h2>Para instalar o PyQt5 no Linux usando pip, siga estas etapas:<br>
-<li>Certifique-se pip de que esteja instalado e atualizado:</li></h2><br><br>
+<li>Certifique-se pipde que esteja instalado e atualizado:</li></h2><br><br>
 </div>
 
 <div>
