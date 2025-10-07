@@ -13,40 +13,36 @@
 <div align="center">
   <h1>## 📋Descrição:</h1>
 </div>
-
-Foi utilizado somente Python como linguagem, e convertido da Framework do QT Designer, o Código em C++,
+<div>
+Foi utilizado Python como linguagem e interpretador, e convertido da Framework do QT Designer, o Código em C++,
 Utilizado também, a fórmula matemática de diluentes pelo método de regras de 3... Se você utiliza o Visual 
 Studio Code como Editor, deixarei descrito as extensões necessárias também abaixo:</p>
+</div>
+<div align="center">
+  <h1>## Modo de Uso:</h1>
+</div>
+<div align="left">
+é bem simples, Digite os números nos campos em branco, e clicke no Botão CALCULAR e terá o resultado final</p>
+</div>
 
 <div align="left">
-### 📥 Pré-requisitos</br>
-- [Python](https://www.python.org/downloads/) instalar</br>
-- [QT Designer](https://build-system.fman.io/qt-designer-download/) instalar</p>
-### 🔧 Extensões do VS Code (Necessárias)
+  - [Python](https://www.python.org/downloads/) instalar</br>
+  - [QT Designer](https://build-system.fman.io/qt-designer-download/) instalar</p>
+  </div>
+</div>
+<div algin="center"><h1>### 📥 Pré-requisitos</br></h1></div>
+<div align="left"><h3>### 🔧 Extensões do VS Code (Necessárias)</h3>
 Na aba de extensões do Visual Studio Code, instale:
 
 - **Python** - Suporte oficial para Python
 - **QT Tools** - Ferramentas para desenvolvimento QT
 - **Qt for Python** - Extensão específica para PyQt/PySide
+</div>
+<div align="left">
+<h2>### 📚 Bibliotecas Python Necessárias!</2h>
+</div>
+pip install pyqt5</br>
+pip install pyrcc5</br>
+pip install PySide5</p>
 
-### 📚 Bibliotecas Python Necessárias
 
-pip install pyqt5
-pip install pyrcc5
-pip install PySide5
-<div>
-<p style="font-size: 20px;">
-Estas Extensões, você vai procurar na aba Extensões do Visual Studio Code.  
-</p>
-</div>
-<h4>
-***E as Seguintes libs do Python:
-</h4></br>
-</div>
-<div align="left"><h5>
-- pip install pyqt5</br>   
-- pip install pyrcc5</br>
-- pip install PySide5</br>  
- </h5> 
-</div>
-</div>
