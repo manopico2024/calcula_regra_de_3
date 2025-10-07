@@ -8,7 +8,11 @@
 <img width="320" height="452" alt="image" src="https://github.com/user-attachments/assets/8e6d2f51-ffad-4cae-8883-31b93f152982" />
 </div>
 
-<div align="left"><h1>
+ <h2 align="left">
+ Foi utilizado somente Python como linguagem, e convertido da Framework do QT Designer, o Código em C++,
+ Utilizado também, a fórmula matemática de diluentes pelo método de regras de 3... 
+ </h2>
+ <div align="left"><h1>
  Será Necessário:
  </h1>
  <h3>
