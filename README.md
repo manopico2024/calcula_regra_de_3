@@ -77,7 +77,3 @@
     <h4><li>pip3 install PySide5</li></h4>
   </ul>
 </div>
-
-<div align="center">
-  <h3>Desenvolvido para aprimorar habilidades em Python</h3>
-</div>
