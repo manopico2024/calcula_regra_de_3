@@ -79,5 +79,5 @@
 </div>
 
 <div align="center">
-  <h3>Desenvolvido com 💙 para aprimorar habilidades em Python</h3>
+  <h3>Desenvolvido para aprimorar habilidades em Python</h3>
 </div>
