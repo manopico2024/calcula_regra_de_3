@@ -34,7 +34,7 @@
   <h2>INSTALAR:</h2>
   
   [![Python](https://img.shields.io/badge/Download-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-  [![QT Designer](https://img.shields.io/badge/Download-QT_Designer-41CD52?logo=qt&logoColor=white)](https://build-system.fman.io/)
+  [![QT Designer](https://img.shields.io/badge/Download-QT_Designer-41CD52?logo=qt&logoColor=white)](https://build-system.fman.io/qt-designer-download)
 </div>
 
 <div align="center">
